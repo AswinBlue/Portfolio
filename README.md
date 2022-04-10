@@ -37,7 +37,30 @@ Projects I've made
   3) imitate screen touch as code
   4) read text from image with 'tesseract' library
 
-## PyQT
+## PyQT test program
+1. Project Info
+  - Description :
+    - window GUI program with 'PyQT' library
+    - used to validate server logic
+  - language : python
+
+2. What it does
+  - send jason data to server and get response
+  - can repeat data sending with given delay
+  - can save request and response as text file with time stamp
+
+# PyQT serial viewer
+1. Project Info
+  - Description :
+    - window GUI program with 'PyQT' library
+    - used to debug serial communication
+  - language : python
+
+2. What it does
+  - can see serial packet from window 'COM' port
+  - can record input packet with time stamp
+  - can send serial packet to 'COM' port
+  - monitor serial packet, and show parsed data as table
 
 ## Nodejs Server
 
