@@ -278,7 +278,19 @@ Projects I've made
     - divide hex string by bytes and show what each bytes mean
 
 ## Diary
-  
+1. Project Info
+  - Description :
+    - use google calendar for Diary
+  - language : Java
+  - used tech : Android programming
+  - period : 19/02 ~ 19/05
+  - url : https://github.com/AswinBlue/Diary
+
+2. What it does
+  - login with google account
+  - create google canendar schedule to keep diary
+  ![screen1](./Diary1.png)  
+  ![screen2](./Diary2.png)
 
 ## OpenCV face color changer
 1. Project Info
